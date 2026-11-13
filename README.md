@@ -98,7 +98,7 @@ A resume-ranking pipeline designed to process and evaluate **100,000+ profiles**
 
 **The Neotia University**  
 B.Tech — Computer Science and Engineering (AI & ML)  
-2023–2027 · CGPA: **9.07/10**
+2024–2027 · CGPA: **9.07/10**
 
 **Canning Government Polytechnic**  
 Diploma — Computer Science & Technology (CST)  
