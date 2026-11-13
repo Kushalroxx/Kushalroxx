@@ -49,7 +49,7 @@ An MVP for exploring AI auditing and governance workflows. It focuses on creatin
 
 **Tech:** Next.js, TypeScript, AI integration
 
-[Source code](https://github.com/itgithubplatform/fairdecision-ai) · [Project demo](https://www.youtube.com/watch?v=ZjMJR68k0iY)
+[Source code](https://github.com/Kushalroxx/Aegis-AI) · [Project demo](https://www.youtube.com/watch?v=ZjMJR68k0iY)
 
 ### 3. HireWise — Resume Ranking Pipeline
 
@@ -61,19 +61,20 @@ A resume-ranking pipeline designed to process and evaluate **100,000+ profiles**
 
 **Tech:** Python, data processing, embeddings, ranking and scoring
 
-[Source code](https://github.com/Saswata-pal/HireWise) · [Project demo](https://www.youtube.com/watch?v=cPrOfWOPHcg)
+[Source code](https://github.com/Kushalroxx/HireWise) · [Project demo](https://www.youtube.com/watch?v=cPrOfWOPHcg)
 
 ## Other Projects
 
 ### Lumina — Assistive Learning Application
 
 An assistive learning application concept designed to support people with ADHD and dyslexia through visual and audio-based learning experiences. **Lumina won 2nd Prize at Neopreneur 1 (SOT), 2026.**
+[Source code](https://github.com/Kushalroxx/Lumina)
 
 ### Class Companion — Education Platform
 
 A full-stack education platform with student and teacher roles, authentication, announcements, notes, assignments, doubts, replies, and notifications. I contributed to the application foundation, routing, and authentication-related work during my IIT Jammu internship.
 
-[Source code](https://github.com/SH4IKVT/Class-Companion-App)
+[Source code](https://github.com/Kushalroxx/Class-Companion-App)
 
 ### Zelphine — Website & Blog
 
@@ -139,8 +140,8 @@ I organise my skills by the parts of an application I can work on. My strongest 
 
 ## Achievements
 
-- **2nd Prize — Neopreneur 1 (2026):** Lumina, representing the School of Technology (SOT).
 - **Top 10 — Google GenAI Hackathon:** CareerSathi.
+- **2nd Prize — Neopreneur 1 (2026):** Lumina, representing the School of Technology (SOT).
 - **3× Inter-College Hackathon Winner:** Recognised for full-stack project work.
 
 ## Education
